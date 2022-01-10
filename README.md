@@ -1,2 +1,2 @@
 # Blog
-it is my blog,but is nothing
+it is my blog,but it is nothing
